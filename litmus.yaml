@@ -414,7 +414,7 @@ metadata:
 data:
   DB_SERVER: "mongodb://mongo-service:27017"
   AGENT_SCOPE: cluster
-  AGENT_namespace: akila
+  AGENT_NAMESPACE: akila
   VERSION: "2.10.0"
   SKIP_SSL_VERIFY: "false"
   # Configurations if you are using dex for OAuth
